@@ -18,6 +18,17 @@
   font-size: large;
 }
 
+.vermelho {
+  color:green; background:red 
+}
+
+.azul {
+  color:green; background:blue 
+}
+
+.preto {
+  color:green; background:black
+}
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }

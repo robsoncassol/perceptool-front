@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 
-class Menu extends Component {
+class Content extends Component {
   render() {
     return (
-      <div>
+      <div className="container">
                     
       </div>
     );
