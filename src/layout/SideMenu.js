@@ -1,6 +1,6 @@
-import React, { Component } from 'react';
+import React from 'react';
 
-class SideMenu extends Component {
+class SideMenu extends React.Component {
   render() {
     return (
       <nav>

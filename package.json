@@ -51,12 +51,17 @@
     "whatwg-fetch": "1.0.0"
   },
   "dependencies": {
+    "axios": "^0.15.2",
+    "flexboxgrid": "^6.3.1",
     "gulp": "^3.9.1",
     "gulp-clean": "^0.3.2",
     "gulp-shell": "^0.5.2",
     "gulp-watch": "^4.3.8",
+    "material-ui": "^0.16.4",
     "react": "^15.3.2",
     "react-dom": "^15.3.2",
+    "react-router": "^3.0.0",
+    "react-tap-event-plugin": "^2.0.1"
     "react-grid-layout": "^0.13.9"
   },
   "scripts": {
